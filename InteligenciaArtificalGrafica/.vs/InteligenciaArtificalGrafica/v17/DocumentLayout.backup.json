@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|c:\\users\\intel\\desktop\\semestre7\\inteligencia artificial\\u1\\inteligenciaartificalgrafica\\inteligenciaartificalgrafica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\mathematics\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\mathematics\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\ia\\regression\\linearregresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\ia\\regression\\linearregresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\mathematics\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\mathematics\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\ia\\searches\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\mathematics\\numcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\mathematics\\numcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\enviroment\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\enviroment\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\mathematics\\linearalgebra\\gaussjordan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\mathematics\\linearalgebra\\gaussjordan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\player\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\player\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\delos\\game\\enviroment\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\delos\\game\\enviroment\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\inteligenciaartificalgrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90067AE0-FF8D-44BE-991C-6245A4BA90DE}|InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica.csproj|solutionrelative:inteligenciaartificalgrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:22:00.892Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAzczMzMwMwGYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:46:45.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MLP.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Data\\MLP.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:55:55.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Busqueda.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Busqueda.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Busqueda.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Busqueda.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Busqueda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:49:27.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Nodo.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Nodo.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Nodo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:21:14.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Grafo.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Grafo.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Grafo.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Grafo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:31:08.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Vertice.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Vertice.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Vertice.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Searches\\Vertice.cs",
+              "ViewState": "AgIAAA4AAABAMzMzMzM7wAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:34:12.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Vector.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Vector.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Vector.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Vector.cs",
+              "ViewState": "AgIAAKUAAAAAZmZmZmYwwCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:20:29.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Matrix.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Matrix.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Matrix.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:19:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinearRegresion.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Regression\\LinearRegresion.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Regression\\LinearRegresion.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\IA\\Regression\\LinearRegresion.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\IA\\Regression\\LinearRegresion.cs",
+              "ViewState": "AgIAABIAAACAmZmZmZkxwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:30:09.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pandas.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Data\\Pandas.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:40:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.Designer.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\Form1.Designer.cs",
+              "ViewState": "AgIAABsAAABAmZmZmZktwDcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:12:36.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Numcs.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Numcs.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Numcs.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\Numcs.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Mathematics\\Numcs.cs",
+              "ViewState": "AgIAAAQAAABgZmZmZmYkwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:50:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:11:27.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GaussJordan.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\LinearAlgebra\\GaussJordan.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Mathematics\\LinearAlgebra\\GaussJordan.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Mathematics\\LinearAlgebra\\GaussJordan.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Mathematics\\LinearAlgebra\\GaussJordan.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:22:44.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Player\\Actor.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\Player\\Actor.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Player\\Actor.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\Player\\Actor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:05:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "World.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\delos\\Game\\Enviroment\\World.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:32:19.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Program.cs",
+              "RelativeDocumentMoniker": "InteligenciaArtificalGrafica\\Program.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\SEMESTRE7\\Inteligencia Artificial\\U1\\InteligenciaArtificalGrafica\\InteligenciaArtificalGrafica\\Program.cs",
+              "RelativeToolTip": "InteligenciaArtificalGrafica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:37:17.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

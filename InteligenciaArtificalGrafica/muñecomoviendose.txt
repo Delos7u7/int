@@ -1,0 +1,12 @@
+            World world = new World(800,533);
+            Actor knight = new Actor(directory + @"\\images\\Player\\Knight_01__WALK_000.png");
+            for (int i = 1; i < 10; i++)
+            {
+                knight.AddTexture(directory + @"\\images\\Player\\Knight_01__WALK_00"+i+".png");
+            }
+            this.Controls.Add(world);
+            world.Visible = true;
+            world.player = knight;
+            knight.X = 0; 
+            knight.Y = 400;
+            world.Refresh();
